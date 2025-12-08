@@ -1,0 +1,7 @@
+{
+  "name": "AeroLog AI",
+  "description": "Aircraft maintenance log analyzer. Extracts data from Post Flight Report photos and generates shift summaries.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
